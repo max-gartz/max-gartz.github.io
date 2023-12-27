@@ -3,11 +3,11 @@ main:
   - title: "Home"
     url: /
   - title: "Experience"
-    url: /experience/
+    url: /experience
   - title: "Skills"
-    url: /skills/
+    url: /skills
   - title: "Blog"
-    url: /blog/
+    url: /blog
   - title: "CV"
     url: /assets/files/resume.pdf
   # - title: "Sample Collections"
