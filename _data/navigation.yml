@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Experience"
-    url: /experience/
-  - title: "Skills"
-    url: /skills/
-  - title: "Blog"
-    url: /blog/
+#  - title: "Experience"
+#    url: /experience/
+#  - title: "Skills"
+#    url: /skills/
+#  - title: "Blog"
+#    url: /blog/
   - title: "CV"
     url: /assets/files/resume.pdf
