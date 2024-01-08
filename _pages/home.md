@@ -1,9 +1,8 @@
 ---
 layout: single
 permalink: /
+title: About Me
 ---
-
-## About Me
 
 Hi! My name is Maximilian Gartz and I am a Senior Machine Learning Engineer at [ML6](https://www.ml6.eu/), 
 where I work on a variety of custom Machine Learning solutions for clients in many industries like 
